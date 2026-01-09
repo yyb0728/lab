@@ -1,0 +1,5 @@
+{
+  "name": "Morgan Genetics Simulator Pro",
+  "description": "An interactive simulation of Thomas Hunt Morgan's fruit fly sex-linked inheritance experiment, visualizing the law of large numbers through real-time genetic cross modeling and error convergence analysis.",
+  "requestFramePermissions": []
+}
